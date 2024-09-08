@@ -37,7 +37,7 @@ The trained model achieves a high accuracy on the validation set, demonstrating 
 To replicate the results or further experiment with the model, follow these steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ShehanPer/pneumonia-detection-cnn.git
+    git clone https://github.com/ShehanPer/PNEUMONIA-DETECTION-CNN.git
     ```
 2. **Install the required libraries**:
     ```bash
