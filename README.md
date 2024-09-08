@@ -1,4 +1,4 @@
-Pneumonia Detection CNN Model
+//Pneumonia Detection CNN Model
 Overview
 This repository contains a Convolutional Neural Network (CNN) model for detecting pneumonia from X-ray images, implemented using TensorFlow in Google Colab. The project leverages a dataset obtained from Kaggle and demonstrates the application of data augmentation techniques and the Adam optimizer to achieve high accuracy.
 
